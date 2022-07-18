@@ -3,6 +3,12 @@
 
 # 具体可以前往我的博客:tonywdy.github.io进行了解！
 
+# 懒人做法
+
+fork本残酷，修改```public```的index.php的链接，再部署到leancloud😁
+
+# 如果你觉得你可以正确的配置，请接着往下看，否则请使用懒人做法！
+
 # 前言
 首先，你需要了解leancloud的部署官文！
 云引擎部署php：https://docs.leancloud.cn/sdk/engine/deploy/php/#%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96composerjson
