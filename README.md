@@ -1,6 +1,8 @@
 # photoapi
 搭建自己的随机图API
 
+# 具体可以前往我的博客:tonywdy1020@163.com进行了解！
+
 # 前言
 首先，你需要了解leancloud的部署官文！
 云引擎部署php：https://docs.leancloud.cn/sdk/engine/deploy/php/#%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96composerjson
