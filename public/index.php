@@ -4,7 +4,7 @@ $seed = time();
 //获取随机数
 $num = rand(1,45);
 //拼接图片地址
-$picpath = "https://gitlab.com/KINGWDY/papi/raw/main/".$num.".png";
+$picpath = "https://gitlab.com/KINGWDY/photoapi/raw/main/".$num.".png";
 //重定位到图片
 die(header("Location: $picpath"));
 ?>
