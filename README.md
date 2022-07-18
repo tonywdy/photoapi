@@ -1,7 +1,7 @@
 # photoapi
 搭建自己的随机图API
 
-# 具体可以前往我的博客:tonywdy1020@163.com进行了解！
+# 具体可以前往我的博客:tonywdy.github.io进行了解！
 
 # 前言
 首先，你需要了解leancloud的部署官文！
