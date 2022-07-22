@@ -1,7 +1,9 @@
 # photoapi
 搭建自己的随机图API
 
-# 具体可以前往我的博客:tonywdy.github.io进行了解！
+# 注意⚠️本仓库已经废弃！请到我主页查看最新仓库！
+
+# 具体可以前往我的博客:[tonywdy.github.io](https://kwblog.vercel.app/)进行了解！
 
 # 懒人做法
 
